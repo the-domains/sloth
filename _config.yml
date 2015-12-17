@@ -1,0 +1,14 @@
+layout_spectrum: 0.5508953
+typography_spectrum: 0.344203
+color:
+  saturation: 0.64659
+  lightness: 0.6909187
+  brandStrength: 0.3139121
+  rhythmicContrast: 0.9845655
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Sloth
